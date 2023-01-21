@@ -46,5 +46,5 @@ console.log(fullName)
 console.log("8");
 const userName = "Федір";
 const payment = "400";
-console.log("Дякуємо, "+userName+"! До сплати " +payment + " гривень" )
+alert(`Дякуємо ${userName} ! До сплати ${payment}  гривень`)
 // Дякуємо, Федір! До сплати 400 гривень
